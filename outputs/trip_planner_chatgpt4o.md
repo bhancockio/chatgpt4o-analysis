@@ -1,9 +1,3 @@
-########################
-
-## Here is you Trip Plan
-
-########################
-
 # 7-Day Travel Itinerary for Split, Croatia (August 5th - August 12th, 2024)
 
 ## Overview

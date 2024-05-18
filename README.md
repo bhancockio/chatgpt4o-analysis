@@ -24,40 +24,40 @@ Check the results below!
 
 ### ChatGPT4-Turbo Result
 
-- AgentOps Id: f631307e-4a0d-4881-ac81-fb3e850b0815
-- LLM Cost: $0.55
-- Time: 3m 45s
-- Prompt Tokens: 76,473
-- Completion Tokens: 11,157
+- AgentOps Id: fbe4b206-12ce-49eb-b86b-53ed56b6ec85
+- LLM Cost: $0.52
+- Time: 3m 36s
+- Prompt Tokens: 40,777
+- Completion Tokens: 3,793
 
 ### Comparison
 
-- Cost: ChatGPT4o is about 40% cheaper than ChatGPT4-Turbo.
-- Response Time: ChatGPT4o is about 14.1% faster than ChatGPT4-Turbo.
-- Token Usage: ChatGPT4o uses about 42.6% fewer tokens overall compared to ChatGPT4-Turbo.
+- Cost: ChatGPT4o is about 36.5% cheaper than ChatGPT4-Turbo.
+- Response Time: ChatGPT4o is about 10.2% faster than ChatGPT4-Turbo.
+- Token Usage: ChatGPT4o uses about 11.3% fewer tokens overall compared to ChatGPT4-Turbo.
 
 ## 2. Trip Planner
 
 ### ChatGPT4o Result
 
-- AgentOps Id: a66fa79e-57bf-4eaf-8a84-e76cdb2512b2
-- LLM Cost: $0.40
-- Time: 3m 43s
-- Prompt Tokens: 46,422
-- Completion Tokens: 10,901
+- AgentOps Id: c826fdea-8710-4a60-b1a4-5825acb41246
+- LLM Cost: $0.36
+- Time: 2m 45s
+- Prompt Tokens: 44,736
+- Completion Tokens: 9,370
 
 ### ChatGPT4-Turbo Result
 
 - AgentOps Id: 55da4c75-8c76-4e19-946b-0abc94929c84
-- LLM Cost: $0.53
-- Time: 4m 40s
-- Prompt Tokens: 33,699
-- Completion Tokens: 6,277
+- LLM Cost: $0.48
+- Time: 3m 22s
+- Prompt Tokens: 34,152
+- Completion Tokens: 4,731
 
 ### Comparison
 
-- Cost: ChatGPT4o is about 24.5% cheaper than ChatGPT4-Turbo.
-- Response Time: ChatGPT4o is 20.7% faster than ChatGPT4-Turbo.
+- Cost: ChatGPT4o is about 25% cheaper than ChatGPT4-Turbo.
+- Response Time: ChatGPT4o is about 18.8% faster than ChatGPT4-Turbo.
 - Token Usage: ChatGPT4o uses about 42.4% more tokens overall compared to ChatGPT4-Turbo.
 
 ## 3. Game Builder
