@@ -8,6 +8,7 @@ authors = ["Your Name <you@example.com>"]
 python = ">=3.10.0,<3.12"
 crewai = {extras = ["tools"], version = "^0.30.11"}
 python-dotenv = "1.0.0"
+agentops = "^0.1.10"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
